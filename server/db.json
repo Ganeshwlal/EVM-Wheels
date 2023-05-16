@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": "0001",
+      "name": "BMW 5 Series Sedan",
+      "photo": "https://i.postimg.cc/0yC0Y3Bb/image.webp",
+      "descriptions": "The BMW 5 series is here with the power to take you farther. Faster. Best-in-class acceleration that sets you drive apart from the rest.",
+      "price": "₹ 6,890,000"
+    },
+    {
+      "id": "0002",
+      "name": "BMW 6 Series Gran Turismo",
+      "photo": "https://i.postimg.cc/9f8SpznR/image.webp",
+      "descriptions": "Sophisticated in every respect: The BMW 6 Series stands for elegant and unique design, luxurious comfort and self-assured driving dynamics.",
+      "price": "₹ 7,190,000"
+    },
+    {
+      "id": "0003",
+      "name": " BMW 7 SERIES SEDAN",
+      "photo": "https://i.postimg.cc/tRtdQ89D/image.webp",
+      "descriptions": "Pure elegance and multisensory entertainment come together in the new BMW 7 Series Sedan to produce an absolute premium driving experience",
+      "price": "₹ 17,000,000"
+    },
+    {
+      "id": "0004",
+      "name": "THE NEW BMW X7",
+      "photo": "https://i.postimg.cc/T3xqzrpL/image.webp",
+      "descriptions": "The new BMW X7 xDrive40i fascinates from the very first encounter with its combination of uncompromising power, luxurious comfort and expressive design language:",
+      "price": "₹ 12,200,000 "
+    },
+    {
+      "id": "0005",
+      "name": "BMW i7",
+      "photo": "https://i.postimg.cc/FsHhD6x7/image.webp",
+      "descriptions": "The first-ever fully electric BMW i7 combines electric performance and multisensory entertainment to produce an unforgettable motoring experience.",
+      "price": "₹ 19,500,000"
+    }
+  ]
+}
